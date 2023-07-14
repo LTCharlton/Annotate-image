@@ -9,6 +9,7 @@ def draw_image():
     picture.image(0,0,"image.png")
     picture.text(20, 100, inside_test.value)
 
+# inserting a comment
 # variables -------------------
 
 # app -------------------------
